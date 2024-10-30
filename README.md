@@ -1,16 +1,24 @@
-## Hi there 👋
+Yello! my name is mo_, and here is my github profile.
 
-<!--
-**moakilodash/moakilodash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Open to collaborating on projects and contributing to open-source initiatives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**: python, javascript<!--, rust -->
+- **Tools**: git, linux, vim, tmux, bash
+
+<!--## Projects
+Here are a few projects I’m working on:
+- [Project Name 1](URL) - A brief description of its purpose.
+- [Project Name 2](URL) - A brief description of its purpose.
+- [Project Name 3](URL) - A brief description of its purpose.-->
+
+## Connect with Me
+
+If you'd like to reach out:
+
+- [Email](mailto:mo_harchegani@tutamail.com)
+- [LinkedIn](https://www.linkedin.com/in/mohammad-harchegani-689518193)
+
+Thanks for visiting!
