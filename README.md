@@ -4,9 +4,7 @@ Yello! my name is mo_, and here is my github profile.
 
 - Open to collaborating on projects and contributing to open-source initiatives.
 
-## Skills
-- **Languages**: python, javascript<!--, rust -->
-- **Tools**: git, linux, vim, tmux, bash
+---
 
 <!--## Projects
 Here are a few projects I’m working on:
